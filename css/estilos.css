@@ -1,0 +1,66 @@
+/***Estilos de Angel Sosa**/
+
+#header-top{padding-top: 50px; 
+			padding-bottom: 150px; 
+			background: #87509c}
+#header-top nav ul{
+			list-style: none}
+#header-top nav ul li{
+			display: inline-block}
+
+#Cuda{padding-left: 220px}
+
+#menu-header{padding-left: 280px}
+#menu-header nav ul li a{text-decoration: none; 
+						color: #ffffff; 
+						font-size: 15px; 
+						padding: 0px 20px; 
+						font-family: 'PT Sans', 'sans-serif'}
+#menu-header nav ul li a:hover, .menu-activo{color: #643a79; 
+											box-shadow: 5px; border-style: }
+
+#Hello{padding: 80px 200px 10px;
+		color: #ffffff;
+		text-align: center}
+#Hello h1{ font-family:'PT Sans', 'sans-serif'; 
+			font-size: 45px}
+
+/**#Work{padding: 20px 550px 50px;}**/
+#Work{padding-top: 60px;
+		text-align: center}
+#Work a{color: #ffffff}
+.Button-W{padding: 30px 95px;
+			background-color: #eb7d4b;
+			border-radius: 3px; 
+			color: #ffffff;
+			font-family:'PT Sans', 'sans-serif';
+			font-size: 20px;
+			border-bottom: 5px solid #c86a40;}
+.Button-W:hover{color: #000000;
+				/**background-color: #c86a40;
+	 			border-bottom:5px solid #c86a40;**/
+	 			text-decoration: none;}
+
+#Seccion2{padding-top: 120px;
+			background: #17c2a4}
+#Seccion2 h2{text-align: center;
+				font-family: 'PT Sans', 'sans-serif'; 
+				font-size: 40px; 
+				color: #ffffff}
+#Seccion2 hr{border: 2px solid #14a58c;
+			width: 60px ;
+			height: 0px;}
+#Texto-bajo{text-align: center;color: #ffffff}
+
+
+#Services-imagenes{padding-top: 100px; padding-bottom: 100px}
+#Services-imagenes h3{padding: 30px 30px 30px;
+						color: #ffffff}
+#Services-imagenes p{padding: 30px 30px 30px;
+						color: #ffffff}
+
+
+
+/***Pendiente**/
+
+/**Fin de la parte de Angel Sosa  **/
